@@ -23,7 +23,7 @@ public:
 
 int main() {
     // Creating object
-    Student s1("Rafi", 23);
+    Student s1("Saymon", 33);
 
     // Calling method
     s1.display();
